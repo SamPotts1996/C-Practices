@@ -3,6 +3,7 @@
 /*
 --  https://docs.microsoft.com/en-us/dotnet/api/system.threading.thread?view=netcore-3.1 -  Microsoft documentation on the Thread Class
 --  https://docs.microsoft.com/en-us/dotnet/standard/threading/using-threads-and-threading - Microsoft documentation on 'use of threads'
+--  https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/lock-statement - Microsoft documentation on lock statement
 --  https://www.youtube.com/watch?v=hOVSKuFTUiI - Derek Banas
 --  https://www.youtube.com/watch?v=UgVkI7ZJyMc - Bucky Roberts 
 */
