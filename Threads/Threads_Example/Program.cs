@@ -20,7 +20,6 @@ using System.Threading;
 
 namespace Threads_Example
 {
-    // test github
     class Program
     {
         // Constants 
